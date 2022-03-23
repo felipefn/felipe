@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<img  width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefn&layout=compact&theme=vision-friendly-dark" alt="Felipe França's most languages"/>
+<img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefn&layout=compact&theme=vision-friendly-dark" alt="Felipe França's most languages"/>
 </p>
 </div>
 
