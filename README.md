@@ -9,7 +9,9 @@
   <img align="center" src="https://img.shields.io/badge/-felpsdog-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/felipefneves" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-felipefneves-05122A?style=flat&logo=linkedin" alt="linkedin"/>v
+  <img align="center" src="https://img.shields.io/badge/-felipefneves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="left" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefn&layout=compact&theme=vision-friendly-dark" alt="Felipe França's most languages"/>
+</p>
 
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
