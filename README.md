@@ -6,7 +6,7 @@
 
 <p>Estudante de Análise e desenvolvimento de sistemas e front-end Junior</p>
 
-  <img align="center" src="https://img.shields.io/badge/-felpsdog-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  
 </a>
 <a href="https://linkedin.com/in/felipefneves" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-felipefneves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
