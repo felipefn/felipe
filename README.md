@@ -1,5 +1,5 @@
 
-<div>
+
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/felipefn/c27eb80dbad0dac7d4473bd79dc7f4e9/raw/65096dbeecc6b162c4f8c569b00fb21c3ae13d62/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe França</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipefn&color=yellow" alt="Profile views" /> </p> 
@@ -23,7 +23,7 @@
 
 <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefn&layout=compact&theme=vision-friendly-dark" alt="Felipe França's most languages"/>
 </p>
-</div>
+
 
 
 
