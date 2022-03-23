@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipefn&color=yellow" alt="Profile views" /> </p> 
 
 <p>Estudante de Análise e desenvolvimento de sistemas e front-end Junior</p>
-<a href="https://twitter.com/felpsdog" target="_blank">
+
   <img align="center" src="https://img.shields.io/badge/-felpsdog-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/felipefneves" target="_blank">
