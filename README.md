@@ -9,7 +9,6 @@
   
 </a>
 <a href="https://linkedin.com/in/felipefneves" target="_blank">
-<img align="center" src="https://img.shields.io/badge/-felipefneves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
